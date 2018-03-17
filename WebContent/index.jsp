@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="IndexServlet">a</a>
+	<a href="IndexServlet">a</a> 
 </body>
 </html>
